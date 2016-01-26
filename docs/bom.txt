@@ -1,0 +1,22 @@
+### Parts list
+
+Qty  Value       Description          Parts 
+           
+2    0.1         Capacitor            C1, C2                                        
+1    10K         Resistor             R10, R11                                              
+1    7SEG        7 Segment LED        LED1           
+9    82r         Resistor             R1, R2, R3, R4, R5, R6, R7, R8, R9     
+1    8M10AHC49T  Crystal              QF1          
+1    ATMEGA328P  Microcontroller      IC1                                        
+1    DS1820      Temp Sensor          U$1                             
+1    FTDI        6 Pin Header         CN4                                                                
+1    SELECT      Button               BTN1                                             
+1    USB         USB connector 	      X1    
+
+### Additional Hardware
+
+1 x IC Socket  
+1 x PCB  
+1 x Front Plate  
+4 x Pillars  
+8 x Screws        
